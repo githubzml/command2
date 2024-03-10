@@ -24,6 +24,7 @@ vim 编辑
 
 - git checkout -b 创建，切换分支
 
+
 hash 值只要输入 4 位 以上就可以执行
 ## Git 教程
 
@@ -36,3 +37,11 @@ hash 值只要输入 4 位 以上就可以执行
 - git log --graph 以图表形式查看分支
 
 - git reset --hard 目标时间点的哈希值
+
+# Git 教程
+
+- fix-B
+
+- git log 命令只能查看以当前状态为终点的历史日志。
+- git relog 查看当前仓库的操作日志。
+
