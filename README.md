@@ -52,3 +52,10 @@ hash 值只要输入 4 位 以上就可以执行
 更改历史
 
 - git rebase -i HEAD~2 在历史记录中合并成一次完美的提交
+
+- git branch -m main 将分支名称改为 main
+
+1.  git push -u origin main 之后 git push
+2.  git push origin main 之后 还是 git push origin main
+    1 与 2 效果相同
+    前提是，第一次提交需要加 -u 参数后，后面的提交就直接可以 git push
