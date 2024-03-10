@@ -6,6 +6,6 @@
 
 - git commit 保存仓库的历史记录
 
-more message a word
+vim 编辑
 
-more message2
+退出命令是，按 ESC 键 跳到命令模式，然后输入:q（不保存）或者:wq（保存） 退出。
