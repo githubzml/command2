@@ -31,3 +31,5 @@ vim 编辑
 - git checkout - 切换回上一分支
 
 - git merge --no-ff 为了在历史记录中明确记录下本次分支合并 在合并时加上 --no-ff 参数
+
+- git log --graph 以图表形式查看分支
