@@ -63,3 +63,5 @@ hash 值只要输入 4 位 以上就可以执行
 - git push -u origin feature-D 推送至 main 以外的分支
 
 - git checkout -b xxx origin/xxx 将远程分支获取至本地仓库
+
+- git pull origin feature-D 获取远端分支最新代码
