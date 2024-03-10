@@ -27,3 +27,5 @@ vim 编辑
 ## Git 教程
 
 1. feature-A
+
+- git checkout - 切换回上一分支
