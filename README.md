@@ -24,8 +24,8 @@ vim 编辑
 
 - git checkout -b 创建，切换分支
 
-
 hash 值只要输入 4 位 以上就可以执行
+
 ## Git 教程
 
 1. feature-A
@@ -45,3 +45,4 @@ hash 值只要输入 4 位 以上就可以执行
 - git log 命令只能查看以当前状态为终点的历史日志。
 - git relog 查看当前仓库的操作日志。
 
+- git merge -amend 修改提交信息
