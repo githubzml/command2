@@ -59,3 +59,5 @@ hash 值只要输入 4 位 以上就可以执行
 2.  git push origin main 之后 还是 git push origin main
     1 与 2 效果相同
     前提是，第一次提交需要加 -u 参数后，后面的提交就直接可以 git push
+
+- git push -u origin feature-D 推送至 main 以外的分支
