@@ -45,4 +45,4 @@ hash 值只要输入 4 位 以上就可以执行
 - git log 命令只能查看以当前状态为终点的历史日志。
 - git relog 查看当前仓库的操作日志。
 
-- git merge --amend 修改提交信息
+- git commit --amend 修改提交信息
