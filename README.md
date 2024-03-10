@@ -23,3 +23,10 @@ vim 编辑
 - git branch 显示分支一览表
 
 - git checkout -b 创建，切换分支
+
+# Git 教程
+
+- fix-B
+
+- git log 命令只能查看以当前状态为终点的历史日志。
+- git relog 查看当前仓库的操作日志。
