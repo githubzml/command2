@@ -23,3 +23,5 @@ vim 编辑
 - git branch 显示分支一览表
 
 - git checkout -b 创建，切换分支
+
+hash 值只要输入 4 位 以上就可以执行
