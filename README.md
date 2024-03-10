@@ -19,3 +19,7 @@ vim 编辑
 - git diff head 查看工作树和最新提交的差别
 
 这里的 head 是指 当前分支中最新一次提交的指针
+
+- git branch 显示分支一览表
+
+- git checkout -b 创建，切换分支
