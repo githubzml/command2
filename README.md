@@ -46,3 +46,9 @@ hash 值只要输入 4 位 以上就可以执行
 - git relog 查看当前仓库的操作日志。
 
 - git commit --amend 修改提交信息
+
+- feature-C
+
+更改历史
+
+- git rebase -i HEAD~2 在历史记录中合并成一次完美的提交
